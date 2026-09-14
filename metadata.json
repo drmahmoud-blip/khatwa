@@ -1,0 +1,6 @@
+{
+  "name": "خطوة شوز | KHATWA Footwear",
+  "description": "متجر إلكتروني عصري للأحذية الرجالي والحريمي في السوق المصري - كل خطوة ليها ستايل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
